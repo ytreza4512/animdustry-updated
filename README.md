@@ -8,7 +8,7 @@ the anime gacha bullet hell rhythm game; *created as a mindustry april 1st event
 
 # notice
 
-this project is **no longer being maintained** in any capacity; issues (especially related to building the game) will not be addressed. I have moved on to other projects. the instructions below will most likely not work out of the box without significant changes - see https://github.com/Anuken/animdustry/issues/40
+this project is **no longer being maintained** for mac, linux and android, cause i suck at programming; the build only be continued on windows; issues (regardless your device; especially related to building the game) will not be addressed. the instructions below will most likely not work out of the box without significant changes - see https://github.com/Anuken/animdustry/issues/40
 
 # compiling
 
@@ -47,4 +47,4 @@ music used:
 - [ADRIANWAVE - Peach Beach](https://soundcloud.com/adrianwave/peach-beach)
 
 
-all other art/sounds/assets/programming by me
+all other art/sounds/assets/programming by anuken
